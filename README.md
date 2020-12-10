@@ -1,2 +1,2 @@
 ## A simple password generator
-fds
+This is a simple password generator that i made in python
