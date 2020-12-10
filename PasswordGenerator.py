@@ -9,7 +9,7 @@ root = tk.Tk()
 color = "grey"
 chars = 'abcdefghijklmnopqrstuvwxyz1234567890ABDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*'
 
-# Widow details
+# Window details
 root.title("Password Generator")
 root.geometry("600x400")
 root.resizable(height=False, width=False)
