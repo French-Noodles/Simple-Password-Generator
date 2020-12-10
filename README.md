@@ -1,7 +1,10 @@
 ## A simple password generator
 This is a simple password generator that i made in python
 
-![Algorithm schema](./lock.io)
+## GUI
+* Copy to Clipboard
+* Slider for chosing character length
+* Generate password button
 
 You can use it to make ur own password that is hard to crack :)
 There is a slider that determines how many characters there is in the password, 
